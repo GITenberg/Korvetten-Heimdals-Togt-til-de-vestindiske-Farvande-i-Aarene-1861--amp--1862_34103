@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36773'
     url: http://www.gutenberg.org/2009/agents/36773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34103#Korvetten-Heimdals-Togt-til-de-vestindiske-Farvande-i-Aarene-1861--amp--1862
 gutenberg_issued: '2010-10-19'
 gutenberg_type: Text
 identifiers:
