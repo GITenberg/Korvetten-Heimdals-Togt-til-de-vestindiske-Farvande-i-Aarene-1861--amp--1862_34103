@@ -1,0 +1,25 @@
+_repo: Korvetten-Heimdals-Togt-til-de-vestindiske-Farvande-i-Aarene-1861--amp--1862_34103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holm, Jacob
+    gutenberg_agent_id: '36773'
+    url: http://www.gutenberg.org/2009/agents/36773
+description: ''
+gutenberg_issued: '2010-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34103'
+  lccn: '71258865'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'VA'
+- !lcsh 'Heimdal (Ship)'
+title: Korvetten Heimdals Togt til de vestindiske Farvande i Aarene 1861 & 1862
+url: http://www.gutenberg.org/ebooks/34103
